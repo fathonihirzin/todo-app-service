@@ -6,4 +6,4 @@ This is my personal template creating an API with Spring Boot:
 
 #####################################################
 
-Check database_ddl.sql for query to creating the table i use on this service.
+Check database_ddl.sql for query to creating the table for this service.
